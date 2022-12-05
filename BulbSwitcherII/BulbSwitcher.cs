@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace BulbSwitcherII
+namespace BulbSwitcher
 {
-    class BulbSwitcherII
+    class BulbSwitcher
     {
         static void Main(string[] args)
         {
