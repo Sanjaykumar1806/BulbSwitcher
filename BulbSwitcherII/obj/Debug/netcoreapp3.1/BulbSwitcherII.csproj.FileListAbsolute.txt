@@ -1,0 +1,14 @@
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\bin\Debug\netcoreapp3.1\BulbSwitcherII.exe
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\bin\Debug\netcoreapp3.1\BulbSwitcherII.deps.json
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\bin\Debug\netcoreapp3.1\BulbSwitcherII.runtimeconfig.json
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\bin\Debug\netcoreapp3.1\BulbSwitcherII.runtimeconfig.dev.json
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\bin\Debug\netcoreapp3.1\BulbSwitcherII.dll
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\bin\Debug\netcoreapp3.1\BulbSwitcherII.pdb
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.csproj.AssemblyReference.cache
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.AssemblyInfoInputs.cache
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.AssemblyInfo.cs
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.csproj.CoreCompileInputs.cache
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.dll
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.pdb
+C:\Users\sanjsha\source\TestProjects\BulbSwitcherII\BulbSwitcherII\obj\Debug\netcoreapp3.1\BulbSwitcherII.genruntimeconfig.cache
